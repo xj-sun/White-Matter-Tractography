@@ -2,9 +2,8 @@
 
 Code here is about diffusion tensor tractography. 
 
-A diffusion tensor image (DTI) has, as the name indicates, a tensor at each voxel (if you don’t
-know what a tensor is, just picture an ellipsoid at each voxel). The tensor is related to the speed
-of water diffusion along the various directions. Along the white matter fiber tracts, the principal
+A diffusion tensor image (DTI) has, as the name indicates, a tensor at each voxel The tensor is related to 
+the speed of water diffusion along the various directions. Along the white matter fiber tracts, the principal
 direction of diffusion is parallel to the tract (sort of similar to signal propagating along an
 insulated cable), whereas outside the tracts the diffusion is less directionally restricted and thus
 more isotropic. 
